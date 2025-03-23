@@ -55,7 +55,7 @@ Contributions are welcome! 🎉 If you’d like to make MLC Media Player even be
 5. Open a Pull Request. 🚀
 
 ## 📧 Contact
-For support or inquiries, reach out at [support@example.com](mailto:m39776401@gmail.com).
+For support or inquiries, reach out at [m39776401@gmail.com](mailto:m39776401@gmail.com).
 
 ✨ Enjoy seamless media playback with **MLC Media Player**! 🎬
 
