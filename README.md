@@ -13,15 +13,15 @@ MLC Media Player is a sleek, powerful, and cross-platform media player that brin
 ## 📥 Installation
 
 ### 🏁 Windows
-1. ⬇️ Download the MLC Media Player setup file from the [official website](#).
+1. ⬇️ Download the MLC Media Player setup file from the [official website](https://coder567785.github.io/MLC-Website/).
 2. 🏗️ Run the setup file and follow the on-screen instructions.
 
 ### 🍏 macOS
-1. ⬇️ Download the MLC Media Player DMG file from the [official website](#).
+1. ⬇️ Download the MLC Media Player DMG file from the [official website](https://coder567785.github.io/MLC-Website/).
 2. 🏗️ Open the DMG file and drag MLC Media Player into the **Applications** folder.
 
 ### 🐧 Linux
-1. ⬇️ Download the Flatpak package from the [official website](#).
+1. ⬇️ Download the Flatpak package from the [official website](https://coder567785.github.io/MLC-Website/).
 2. Install Flatpak if it's not already installed:
    ```sh
    sudo apt install flatpak  # For Debian/Ubuntu-based distros
